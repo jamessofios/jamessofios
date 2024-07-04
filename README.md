@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [gpt_cli](https://github.com/jamessofios/gpt_cli)
 
-- 💬 Ask me about **C, Linux, POSIX**
-
 - 📫 How to reach me **james.sofios@gmail.com**
 
 <p align="left">
