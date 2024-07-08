@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm James</h1>
 <h3 align="center">I am a Software Developer from Chicago, IL</h3>
 
-- 🔭 I’m currently working on [gpt_cli](https://github.com/jamessofios/gpt_cli)
-
-- 📫 How to reach me **james.sofios@gmail.com**
+- 📫 How to reach me **jamessofios@gmail.com**
 
 <p align="left">
 </p>
